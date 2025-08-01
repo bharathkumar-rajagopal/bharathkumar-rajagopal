@@ -1,10 +1,10 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Bharathkumar+Rajagopal;+my+GitHub+profile!
-</div>
+<!-- Typing animation -->
+<p align="center">
+  https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Bharathkumar+Rajagopal;Welcome+to+my+GitHub+profile!
+</p>
 
 ---
-<div align="left">
   
 ### About Me
 
@@ -22,4 +22,3 @@
 - 💼 LinkedIn: [bharath-–r](https://linkedin.com/in/bharath-–r)
 
 ---
-</div>
