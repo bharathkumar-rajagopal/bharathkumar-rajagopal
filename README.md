@@ -1,7 +1,10 @@
 
-<!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=050505&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Bharathkumar+Rajagopal+%F0%9F%91%BD+%E2%9D%97;Welcome+to+my+GitHub+profile!" alt="Typing Animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=FFFFFF&center=true&width=800&lines=Hi+there%2C+I%27m+Bharathkumar+Rajagopal+%F0%9F%91%BD+%E2%9D%97;Welcome+to+my+GitHub+profile%21">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=000000&center=true&width=800&lines=Hi+there%2C+I%27m+Bharathkumar+Rajagopal+%F0%9F%91%BD+%E2%9D%97;Welcome+to+my+GitHub+profile%21">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=100&color=58A6FF&center=true&width=800&lines=Hi+there%2C+I%27m+Bharathkumar+Rajagopal+%F0%9F%91%BD+%E2%9D%97;Welcome+to+my+GitHub+profile%21" alt="Typing animation">
+  </picture>
 </p>
 
 
