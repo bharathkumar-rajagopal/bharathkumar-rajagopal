@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**bharathkumar-rajagopal/bharathkumar-rajagopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Bharathkumar+Rajagopal;+my+GitHub+profile!
+</div>
 
-Here are some ideas to get you started:
+---
+<div align="left">
+  
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- MSc in Biotechnology from **Amity Institute of Biotechnology**, Amity University Uttar Pradesh  
+- I enjoy coding, and I'm always learning something new  
+- Passionate about environmental science and bioinformatics  
+- Currently exploring Python, R for scientific research and data visualisation
+
+---
+
+### How to Reach Me
+
+- 📧 Email: [bharathkumar.r@s.amity.edu](mailto:bharathkumar.r@s.amity.edu) or [i.bharath@outlook.com](mailto:i.bharath@outlook.com) 
+- 🌐 Website: [bharathkumar-rajagopal.github.io](https://bharathkumar-rajagopal.github.io/)  
+- 💼 LinkedIn: [bharath-–r](https://linkedin.com/in/bharath-–r)
+
+---
+</div>
