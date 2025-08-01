@@ -1,8 +1,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Bharathkumar+Rajagopal;Welcome+to+my+GitHub+profile!
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000CF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Bharathkumar+Rajagopal;Welcome+to+my+GitHub+profile!
 </p>
+
 
 ---
   
