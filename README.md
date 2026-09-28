@@ -12,16 +12,16 @@
   
 ### About Me
 
-- I hold an MSc in Biotechnology from **Amity Institute of Biotechnology**, Amity University Uttar Pradesh.  
+- I am a doctoral student in Oceanography  from **Mediterranean Institute of Oceanography**, Aix Marseille University.  
 - I enjoy coding, and I'm always learning something new.  
-- Passionate about environmental science and bioinformatics. 
+- Passionate about environmental science, analytical chemistry and Oceanography. 
 - Currently exploring Python, R for scientific research and data visualisation for my projects.
 
 ---
 
 ### How to Reach Me
 
-- 📧 Email: [bharathkumar.r@s.amity.edu](mailto:bharathkumar.r@s.amity.edu) or [i.bharath@outlook.com](mailto:i.bharath@outlook.com) 
+- 📧 Email: [bharathkumar.rajagopal@mio.osupytheas.fr](mailto:harathkumar.rajagopal@mio.osupytheas.fr)
 - 🌐 Website: [bharathkumar-rajagopal.github.io](https://bharathkumar-rajagopal.github.io/)  
 - 💼 LinkedIn: [bharath-–r](https://linkedin.com/in/bharath-–r)
 
