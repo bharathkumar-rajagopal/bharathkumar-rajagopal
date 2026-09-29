@@ -12,7 +12,7 @@
   
 ### About Me
 
-- I am a doctoral student in Oceanography  from **Mediterranean Institute of Oceanography**, Aix Marseille University.  
+- I am a doctoral student in Oceanography at the Mediterranean Institute of Oceanography, Aix Marseille University.  
 - I enjoy coding, and I'm always learning something new.  
 - Passionate about environmental science, analytical chemistry and Oceanography. 
 - Currently exploring Python, R for scientific research and data visualisation for my projects.
@@ -22,7 +22,7 @@
 ### How to Reach Me
 
 - 📧 Email: [bharathkumar.rajagopal@mio.osupytheas.fr](mailto:harathkumar.rajagopal@mio.osupytheas.fr)
-- 🌐 Website: [bharathkumar-rajagopal.github.io](https://bharathkumar-rajagopal.github.io/)  
+- 🌐 Website: [bharathkumar-rajagopal.com](https://bharathkumar-rajagopal.com/)  
 - 💼 LinkedIn: [bharath-–r](https://linkedin.com/in/bharath-–r)
 
 ---
